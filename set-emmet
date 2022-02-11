@@ -1,5 +1,7 @@
 "emmet.triggerExpansionOnTab": true,
 "files.associations": {"*html" : "html"}
+"emmet.includeLanguages": {
+"javascript": "javascriptreact"}
 
 
 Note: jika emmet tidak berfungsi di vs code copy script tersebut paste di pengaturan/extension/(cari settings.json)lalu klik paste disitu 
